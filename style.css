@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+}
+form, section{
+    width: 45%;
+}
+
+.container-fluid{
+    background-color:rgba(8, 7, 7, 0.048);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#select{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#section{
+    width: 40%;
+}
+
+
+#search-form{
+    display: flex;
+    flex-direction: column;
+}

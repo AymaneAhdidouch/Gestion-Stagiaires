@@ -1,0 +1,18 @@
+Créer un formulaire de gestion des stagiaires dans le fichier STG.txt : 
+Numéro-Nom-Email-Filiere (Numéro est unique).
+Options :
+1- Copier tous stagiaire de la filière 'TDI' vers un nouveau fichier TDI.txt
+2- Ajouter un stagiaire (Dans un fichier texte)
+3- Supprimer un stagiaire (Par numéro)
+4- Modifier un stagiaire (Par numéro)
+5- Rechercher un stagiaire (Par numéro) et afficher ses informations
+dans des zones de texte
+6- Afficher tous les stagiaires dans un tableau
+7- L'ajout d'un stagiaire doit être fait avec vérification 
+de l'existence
+*******************
+Ces 2 questions sont facultatives (Sont pas obligatoires) :
+8- Remplir à partir du fichier STG.txt une liste déroulante par 
+les différentes filières (sans répétition)
+9- En choisissant une filière dans la liste, afficher dans un tableau les
+stagiaires appartenant à cette filière
